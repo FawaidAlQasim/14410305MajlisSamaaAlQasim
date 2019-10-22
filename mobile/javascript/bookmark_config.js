@@ -1,1 +1,1 @@
-﻿var ols=[{caption:"01 03 مختصر سيرة النبي لعبد الغني المقدسي",page:"3",url:"",level:"1",children:[]},{caption:"02 03 الشمائل المحمدية للترمذي ت عصام موسى ط الصديق",page:"101",url:"",level:"1",children:[]}];
+﻿var ols=[{caption:"01 03 مختصر سيرة النبي لعبد الغني المقدسي",page:"3",url:"",level:"1",children:[]},{caption:"02 03 الشمائل المحمدية للترمذي ت عصام موسى ط الصديق",page:"79",url:"",level:"1",children:[]}];
